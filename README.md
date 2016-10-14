@@ -1,2 +1,2 @@
-# samples
-sample programs
+# sample sources
+sample sources from many sources
